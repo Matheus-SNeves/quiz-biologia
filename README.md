@@ -1,5 +1,9 @@
 # quiz biologia
+INTEGRANTES:
+- ISABELLE ALMEIDA
+- MATHEUS NEVES
 
+  
 RESPOSTAS:
 questao 1 - d
 questao 2 - d
@@ -12,9 +16,14 @@ questao 8 - a
 questao 9 - c
 questao 10 - d
 
-TEMA: BIOLOGIA
+MATÉRIA: BIOLOGIA
+
+TEMA: ORIGEM E EVOLUÇÃO DA VIDA
 
 PROFESSORA: EDILAINE
 
 OPINIÃO: Amou o projeto e disse que irá usar na aplicação de estudos do 1° ano do EM.
+
 SUGESTÃO DE MELHORIA: Nenhuma, achou perfeito
+
+
